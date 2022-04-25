@@ -1,7 +1,7 @@
 <template>
   <div class="introduce">
     <h1>介绍</h1>
-    <p class="description">cqc-vue2-ui是一个基于vue3开发的pc端ui库</p>
+    <p class="description">cqc-vue2-ui是一个基于vue2开发的pc端ui库</p>
     <br>
     <br>
     <h1>安装</h1>

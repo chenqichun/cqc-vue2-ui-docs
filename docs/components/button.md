@@ -20,12 +20,6 @@
 <cqc-button type="success">成功</cqc-button>
 <cqc-button type="info">信息</cqc-button>
 
-<script>
-  import { CqcButton } from 'cqc-vue2-ui'
-  components: {
-    CqcButton
-  }
-</script>
 ```
 :::
 </demo-block>
