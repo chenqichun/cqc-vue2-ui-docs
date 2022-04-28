@@ -65,6 +65,12 @@ module.exports = {
           children: [
             [ 'signBoard', '画板']
           ]
+        },
+        {
+          collapsable: false,
+          children: [
+            [ 'waitting', '未完待续...']
+          ]
         }
       ]
     }

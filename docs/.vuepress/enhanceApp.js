@@ -3,7 +3,7 @@ import hl from 'highlight.js'
 import 'highlight.js/styles/atom-one-light.css'
 
 import cqcUI from 'cqc-vue2-ui'
-import 'cqc-vue2-ui/libUI/cqc-vue2-ui.css'
+import 'cqc-vue2-ui/cqc-vue2-ui.css'
 
 Vue.directive('highlight', el => {
   const blocks = el.querySelectorAll('pre code')
